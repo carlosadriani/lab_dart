@@ -1,0 +1,6 @@
+.dart_tool/
+build/
+.packages
+doc/api/
+*.log
+.DS_Store
